@@ -183,6 +183,8 @@ body {
         padding-top: 50px;
         overflow-x: auto;
         height: 100vh;
+        background: url("../assets/bg-pattern-desktop.svg") no-repeat;
+        background-size: cover;
     }
 
     .text-form-sub-container {
